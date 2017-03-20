@@ -8,7 +8,7 @@ Script receiving query results is ./scripts/script.py
 
 Run tests:
  * (activate python3 virtualenv if you want)
- * export PYTHONPATH=`pwd`
+ * export PYTHONPATH=\`pwd\`
  * cd tests
  * python3 test_all.py
 
